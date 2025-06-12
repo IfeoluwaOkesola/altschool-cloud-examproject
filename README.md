@@ -37,7 +37,6 @@ A full-stack engineer with over 3 years of experience building scalable applicat
 
 
 ## 📂 Project Structure
-my-startup/
 ├── public/
 │ └── index.html
 ├── index.js
