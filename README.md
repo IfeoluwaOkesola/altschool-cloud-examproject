@@ -34,9 +34,8 @@ A full-stack engineer with over 3 years of experience building scalable applicat
 - Nginx configured as a reverse proxy to Node.js
 
 ### ✅ Live Preview Screenshot
-<p align="center">
-  <img src="screenshot-landing-page.png" alt="Landing Page Screenshot" width="600"/>
-</p>
+
+![screenshot-landing-page](https://github.com/user-attachments/assets/720679d4-1b25-4253-bd31-5a1a64450443)
 
 
 ## 📂 Project Structure
