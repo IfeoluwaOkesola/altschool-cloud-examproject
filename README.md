@@ -33,9 +33,9 @@ A full-stack engineer with over 3 years of experience building scalable applicat
 - Node.js app serves landing page from `/public/index.html`
 - Nginx configured as a reverse proxy to Node.js
 
-### ✅ Live Preview Screenshot
+### ✅ Screenshot of Rendered Page
 
-![screenshot-landing-page](https://github.com/user-attachments/assets/720679d4-1b25-4253-bd31-5a1a64450443)
+![Browser image](images/screenshot-landing-page.png)
 
 
 ## 📂 Project Structure
